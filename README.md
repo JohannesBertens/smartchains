@@ -1,0 +1,2 @@
+# smartchains
+SmartChains placeholder site
